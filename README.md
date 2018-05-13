@@ -1,12 +1,27 @@
 # HJ-Editor
-简单的C++ IDE，带联想、代码高亮、编译运行等功能
+类C语言--HJ语言的编译器,并附带相应的IDE和运行虚拟机
 
-联想：
-![](HJ-Editor-Code.PNG)
+语言定义请参考文件中"语言定义.txt"
 
-运行：
-![](HJ-Editor-Run.PNG)
+词法分析部分使用flex构建，flex程序源码见文件tokenAnalysiserSolo.l
 
-编译运行功能需要安装好g++，在Mac下无需更改设置，win下需要自己配置g++路径
+致谢:虚拟机由[Rabbin](https://github.com/rabbin)完成
+
+主界面：
+![](main.PNG)
+
+虚拟机运行斐波那契数列递归程序:
+![](fibo.PNG)
+
+报错：
+![](error1.PNG)
+
+![](error2.PNG)
+
+
+
+#TODO.
+- 添加虚拟机的浮点数支持
+- 添加字符串类型支持
 
 
