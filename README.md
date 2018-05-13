@@ -8,19 +8,23 @@
 致谢:虚拟机由[Rabbin](https://github.com/rabbin)完成
 
 主界面：
+
 ![](main.PNG)
 
 虚拟机运行斐波那契数列递归程序:
+
 ![](fibo.PNG)
 
 报错：
+
 ![](error1.PNG)
 
 ![](error2.PNG)
 
 
 
-#TODO.
+
+###TODO.
 - 添加虚拟机的浮点数支持
 - 添加字符串类型支持
 
