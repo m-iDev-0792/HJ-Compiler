@@ -9,17 +9,17 @@
 
 主界面：
 
-![](main.PNG)
+![](img/main.PNG)
 
 虚拟机运行斐波那契数列递归程序:
 
-![](fibo.PNG)
+![](img/fibo.PNG)
 
 报错：
 
-![](error1.PNG)
+![](img/error1.PNG)
 
-![](error2.PNG)
+![](img/error2.PNG)
 
 
 
